@@ -1,11 +1,11 @@
 {
 	"schemaVersion": 1,
-	"id": "modid",
+	"id": "detective",
 	"version": "${version}",
-	"name": "Example mod",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"name": "Detective",
+	"description": "Know when people on your server enter spectator mode!",
 	"authors": [
-		"Me!"
+		"plk4"
 	],
 	"contact": {
 		"homepage": "https://fabricmc.net/",

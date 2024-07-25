@@ -1,4 +1,4 @@
-package com.example;
+package com.plk4;
 
 import net.fabricmc.api.ClientModInitializer;
 
